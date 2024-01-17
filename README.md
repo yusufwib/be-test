@@ -1,6 +1,6 @@
 # Mekari Backend Golang Technical Test
 
-This document provides instructions on how to set up, run, and use the Mekari Backend Golang application, which utilizes the Echo framework, PostgreSQL, Docker, Go-Wire for dependency injection, Swagger for API documentation, and follows a clean architecture pattern.
+This document provides instructions on how to set up, run, and use the Mekari Backend Golang application, which utilizes the Echo framework, PostgreSQL, Docker, Go-Wire for dependency injection, Swagger for API documentation, and follows a clean architecture pattern and SOLID principles.
 
 
 ## Getting Started
